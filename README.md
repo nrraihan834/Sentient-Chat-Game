@@ -70,8 +70,7 @@ How to Run
 
 Clone the project
 
-git clone https://github.com/your-username/sentience-simulator.git
-cd sentience-simulator
+git clone https://github.com/nrraihan834/Sentient-Chat-Game
 
 
 Install dependencies
@@ -86,7 +85,7 @@ npm run dev
 
 Open in browser
 
-http://localhost:3000
+https://sentient-chat-game.vercel.app/
 
 🔮 Future Features
 
